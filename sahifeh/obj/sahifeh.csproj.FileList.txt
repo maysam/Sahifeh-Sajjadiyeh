@@ -1,0 +1,10 @@
+bin\Debug\mysahifeh.mdb
+bin\Debug\sahifeh.exe.config
+bin\Debug\sahifeh.exe
+bin\Debug\sahifeh.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\sahifeh.Form1.resources
+obj\Debug\sahifeh.Properties.Resources.resources
+obj\Debug\sahifeh.csproj.GenerateResource.Cache
+obj\Debug\sahifeh.exe
+obj\Debug\sahifeh.pdb
